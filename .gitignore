@@ -1,0 +1,7 @@
+__pycache__/
+build/
+dist/
+*.spec
+Old/
+# Ignorer le dossier images et tout son contenu
+images/
