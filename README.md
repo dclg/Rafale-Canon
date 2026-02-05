@@ -59,6 +59,11 @@ Pour créer un exécutable autonome `.exe` :
     ```
     L'exécutable sera généré dans le dossier `dist/`.
 
+## Téléchargement
+
+📥 **Télécharger la dernière version (Windows .exe) :** [CanonBurstExtractor v1.0.0](https://github.com/dclg/Rafale-Canon/releases/tag/v1.0.0)
+
+
 ## Avertissement Légal
 
 Ce logiciel est un outil d'ingénierie inverse développé indépendamment. Il n'est ni affilié, ni autorisé, ni approuvé par Canon Inc. Le format de fichier CR3 est la propriété de Canon. Cet outil est fourni à des fins d'interopérabilité et d'éducation.
